@@ -19,6 +19,8 @@ Aplikasi CRUD (Create, Read, Update, Delete) BUKU
 ### Tambah Buku
 ![Tambah Buku](tambahbuku.PNG)
 
+![Tambah Buku](Brhslditmbhkn.png)
+
 ### Ubah Buku
 ![Ubah Buku](Edit1.png)
 
@@ -27,6 +29,9 @@ Aplikasi CRUD (Create, Read, Update, Delete) BUKU
 
 ### Konfirmasi Hapus
 ![Konfirmasi Hapus](Hapus.png)
+
+![Konfirmasi Hapus](Hapus1.png)
+
 
 ### Database Sql Serve
 ![Database Sql Serve](sql.PNG)
