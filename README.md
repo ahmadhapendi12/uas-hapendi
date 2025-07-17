@@ -14,10 +14,14 @@ Aplikasi CRUD (Create, Read, Update, Delete) BUKU
 ![Halaman Utama](dshbrd2.png)
 
 ### Tambah Buku
-![Tambah Buku](Tambahbuku.png)
+![Tambah Buku](Tambahbuku.PNG)
 
 ### Ubah Buku
 ![Ubah Buku](edit.png)
 
 ### Konfirmasi Hapus
 ![Konfirmasi Hapus](Hapus.png)
+
+### Database Sql Serve
+![Database Sql Serve](sql.PNG)
+
