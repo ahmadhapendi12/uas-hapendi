@@ -30,7 +30,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) BUKU
 ### Konfirmasi Hapus
 ![Konfirmasi Hapus](Hapus.png)
 
-![Konfirmasi Hapus](Hapus1.png)
+![Konfirmasi Hapus](hapus1.png)
 
 
 ### Database Sql Serve
