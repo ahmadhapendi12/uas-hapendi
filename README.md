@@ -14,7 +14,7 @@ Aplikasi CRUD (Create, Read, Update, Delete) BUKU
 ![Halaman Utama](dshbrd2.png)
 
 ### Tambah Buku
-![Tambah Buku](Tambahbuku.PNG)
+![Tambah Buku](tambahbuku.PNG)
 
 ### Ubah Buku
 ![Ubah Buku](edit.png)
