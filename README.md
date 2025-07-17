@@ -20,7 +20,9 @@ Aplikasi CRUD (Create, Read, Update, Delete) BUKU
 ![Tambah Buku](tambahbuku.PNG)
 
 ### Ubah Buku
-![Ubah Buku](edit.png)
+![Ubah Buku](Edit1.png)
+
+![Ubah Buku](Editberhasil.png)
 
 
 ### Konfirmasi Hapus
